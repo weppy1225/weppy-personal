@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/etf-invest/README.md",
+                "file": "dev-tips/redmine-docker-manual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "redmine-docker-manual"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/etf-invest/README.md",
+                "file": "dev-tips/redmine-docker-manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 의 백링크"
+              "title": "redmine-docker-manual 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/etf-invest/README.md",
+                "file": "dev-tips/redmine-docker-manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 의 나가는 링크"
+              "title": "redmine-docker-manual 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/etf-invest/README.md",
+                "file": "dev-tips/redmine-docker-manual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 의 개요"
+              "title": "redmine-docker-manual 의 개요"
             }
           }
         ]
@@ -180,9 +180,23 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e4420e7a0ed1f6cb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "dev-tips/obsidian-git-manual.md",
+    "dev-tips/redmine-docker-manual.md",
+    "무제.md",
+    "life/README.md",
+    "dev-tips/README.md",
+    "dev-tips/redmine-docker/README.md",
+    "dev-tips/obsidian-git/README.md",
+    "cafe/README.md",
+    "cafe/claude-edu/README.md",
+    "blog/etf-invest/README.md",
+    "blog/wms-content/README.md",
+    "blog/README.md"
+  ]
 }

@@ -1,4 +1,4 @@
-# Redmine Docker 설치 메뉴얼 22
+# Redmine Docker 설치 메뉴얼
 
 작성일: 2026-05-13
 태그: #redmine #docker #setup
